@@ -1,4 +1,4 @@
-# Distance measurement based on stereo images
+# Distance estimation based on stereo images
 ## Requirements for running script
 
 Libraries:
